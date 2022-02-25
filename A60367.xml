@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appendix to a late book intituled The unchangeable morality of the seventh-day-Sabbath. Or, A letter written to some friends, for further satisfaction in that point: by William Seller, in the behalf of himself and several other brethren</title>
+            <author>Saller, William, d. ca. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60367</idno>
+            <idno type="STC">Wing S398A</idno>
+            <idno type="STC">ESTC R218597</idno>
+            <idno type="EEBO-CITATION">99830174</idno>
+            <idno type="PROQUEST">99830174</idno>
+            <idno type="VID">34624</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34624)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2019:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appendix to a late book intituled The unchangeable morality of the seventh-day-Sabbath. Or, A letter written to some friends, for further satisfaction in that point: by William Seller, in the behalf of himself and several other brethren</title>
+                  <author>Saller, William, d. ca. 1680.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Last page of text begins: Postscript; in fact an advertisment.</note>
+                  <note>In response to "The unchangeable morality of the 7th day sabbath" written by J.S.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. S. --  Unchangeable morality of the 7th day sabbath.</term>
+               <term>Unchangeable morality of the 7th day sabbath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34624:1"/>
+            <head>An APPENDIX to a late BOOK INTITULED <hi>The <g ref="char:V">Ʋ</g>nchangeable Morality of the Seventh-day-Sabbath.</hi>
+            </head>
+            <head type="sub">OR, A Letter written to ſome Friends, for further ſatisfaction in that point:</head>
+            <byline>By <hi>WILLIAM SELLER,</hi> in the behalf of himſelf and ſe<g ref="char:EOLhyphen"/>veral other Brethren.</byline>
+            <p>MUch honoured and dearly beloved brethren in our Lord Jeſus Chriſt, in whom we ſa<g ref="char:EOLhyphen"/>lute you kindly, bleſſing God for that mea<g ref="char:EOLhyphen"/>ſure of his good Spirit which ſome of us did per<g ref="char:EOLhyphen"/>ceive to be in you when you were at our meeting; ſince which time we have judged you meet perſons to be converſed withall about the things of God, and therefore we do take the boldneſs to ſecond our Conference with this preſent writing.</p>
+            <p>And firſt, for that Part of the diſcourſe that ſeem<g ref="char:EOLhyphen"/>ed to ſome of you ſo knottie, as namely, the giving of the Sabbath to <hi>Adam</hi> in the ſtate of innocency, to omit what was then Argued from <hi>Gen.</hi> 1.24. to
+<pb facs="tcp:34624:2"/>
+               <pb n="1" facs="tcp:34624:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:34624:3"/>the end, and <hi>Gen.</hi> 2.2, 3. for the proof of this aſſer<g ref="char:EOLhyphen"/>tion, we ſhall offer theſe further conſiderations unto your <hi>i. e.</hi>
+            </p>
+            <p n="1">(1.) The Law of the <hi>ten Commandments</hi> is mani<g ref="char:EOLhyphen"/>feſted in the Scriptures to be the firſt Covenant, and the old Covenant, <hi>Heb.</hi> 8.7, 8, 9. <hi>&amp;</hi> 9.15. under which the whole world <hi>Was,</hi> and <hi>is,</hi> and are therefore guilty of <hi>Sin,</hi> and are under the penalty of death, be<g ref="char:EOLhyphen"/>ing accurſed by the Law, and therefore ſtood in need of a Redeemer, <hi>Rom.</hi> 3.19. <hi>&amp;</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> .12, 13, 14. <hi>Gal.</hi> 3.10, 11, 12, 13.</p>
+            <p n="2">(2.) The Scriptures do make it evident, that the <hi>New Covenant</hi> took no place till the old was broken; and if the Law or firſt Covenant had not been bro<g ref="char:EOLhyphen"/>ken, the New Covenant had never been ſought for, nor would have been needful, <hi>Rom.</hi> 7.10. <hi>&amp;</hi> 8.3, 4. <hi>Gal.</hi> 3.21. <hi>Heb</hi> 8.7. <hi>&amp;</hi> 9.15.</p>
+            <p n="3">(3.) It is as plain in the Scripture, that the <hi>New Covenant</hi> took place long before the giving of the <hi>Law</hi> by a vocal voice upon <hi>Mount Sinai,</hi> and wri<g ref="char:EOLhyphen"/>ting of it upon Tables of ſtone; as appeares from <hi>Rom</hi> Cap. 4. where the Apoſtle makes it his buſineſs to prove, that <hi>Abraham</hi> was an heire of the Pro<g ref="char:EOLhyphen"/>miſe by <hi>Faith</hi> and <hi>Grace:</hi> which termes do clearly relate to the <hi>New Covenant.</hi>
+            </p>
+            <p n="4">(4.) But farther, the new Covenant took place, to keep off the hevy wrath of God from falling on man in the Act of his firſt tranſgreſſion, <hi>Gen.</hi> 3.15. where it is clear, that there is a promiſe of mercy to the ſeed of the woman; which could not be, but in and through a Covenant of grace. No ſurely, brethren, there is no way to keep the earth and the inhabitants thereof from ſinking, when diſſolved by ſin, but on<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:34624:3"/>by our Lord Jeſus Chriſt bearing up the pillars of it, <hi>Pſal.</hi> 75.3. which we beſeech you conſider: for if theſe things be ſo, as we believe no man can deny, then is it moſt evident, that the Sabbath was given at the very firſt: for nothing is more evident then this, that the Seventh-day-Sabbath is one of the <hi>ten Commandments, Exod.</hi> 20.8. <hi>Deut.</hi> 5.12, 22. and this we judge to be beyond doubt or contradiction, that the <hi>ten Commandments</hi> is the old Covenant, the Covenant of workes, <hi>Heb.</hi> 8.6, 7, 8, 9. <hi>&amp;</hi> 9.4. compared with <hi>Exod.</hi> 34.28 <hi>Deut.</hi> 4.10, 11, 12, 13. <hi>&amp;</hi> 5.22. <hi>&amp;</hi> 9.9, 10, 11. <hi>&amp;</hi> 10.1, 2, 3, 4, 5. And if ever there were a time when this Law was Ordeyned unto life, as it was certainly, <hi>Rom.</hi> 7.10. ſurely it muſt be in an eſtate of Innocency: for when it was delivered in Mount <hi>Horeb,</hi> it was the miniſtration of death and condemnation, 2 <hi>Cor.</hi> 3.7, 9. and therefore when God delivered unto us the terms and conditions of this his Covenant thus; <hi>The man that doth theſe things, ſhall live by them,</hi> Rom. 10.5. Gal. 2.12. and, <hi>curſed is every one that continueth not in all things which are written in the Book of the Law to do them,</hi> Gal. 3.10. theſe we ſay muſt needs refer to the time of the Laws firſt inſtitution, when man was in a capacity to keep the Law: otherwiſe it would be the greateſt ſcorne of poor men in their miſery, and cruelty, or both, that could be imagined, to of<g ref="char:EOLhyphen"/>fer them life upon terms of an abſolute impoſſibili<g ref="char:EOLhyphen"/>ty; this dealing can never agree with the Wiſdom, Juſtice, and grace of God; for no man can have Life or Juſtification now by the Law, as is manifeſt, <hi>Rom.</hi> 3.20, 27, 28. <hi>&amp; Gal.</hi> 3.11.</p>
+            <p>
+               <pb n="4" facs="tcp:34624:4"/>
+Now put all this together, and if the <hi>ten Com<g ref="char:EOLhyphen"/>mandments</hi> be the Covenant of works, and if we ex<g ref="char:EOLhyphen"/>clude the Sabbath, then they will be but odd <hi>Nine,</hi> and not even <hi>Ten,</hi> as <hi>Moſes</hi> ſaith they are, in the fore<g ref="char:EOLhyphen"/>mentioned texts, <hi>Exod.</hi> 34.24, 28. <hi>Deut.</hi> 4.13 &amp; 10.4. And this Covenant to be the firſt and old Cove<g ref="char:EOLhyphen"/>nant ſtruck with man, and broke by him, before the new either did or need come in for his relief; and yet he both ſtood in need of the New-Covenant, and had the help of it alſo, as ſoon as he had ſinned: then it roundly followeth, that the Sabbath was gi<g ref="char:EOLhyphen"/>ven in the ſtate of innocency, for a perpetual Law to all mankind.</p>
+            <p>In the next Place, we ſhall give you our Under<g ref="char:EOLhyphen"/>ſtanding of thoſe two texts preſſed by one of you, to prove the <hi>ten Commandments</hi> aboliſhed, further and beyond what we have given you already in our late book afore-mentioned, Page 20, 21</p>
+            <p>And firſt, for that Text 2 <hi>Cor.</hi> 3.6, 7, 8, 9, 10, 11. we verily believe the ſcope and intent of the A<g ref="char:EOLhyphen"/>poſtle there, is to let us underſtand, that the Law as it is the Officer of Condemnation, is aboliſhed; Chriſt having taken that Office out of its hands, ſo that it ſhall never have Power to keep one Son or Daughter of <hi>Adam</hi> for ever under the hatches of death, but all men ſhall riſe from the grave through Chriſt Jeſus, and the Law ſhall not come in any more to caſt them again: but if they periſh eternal<g ref="char:EOLhyphen"/>ly, it will be for ſome diſobedience to the Goſpel. But as the Law is a rule of life, it is not aboliſhed, and that for theſe further reaſons more then we gave you in our forementioned book: <hi>i. e.</hi>
+            </p>
+            <p n="1">(1) If the Law of the <hi>Ten Commandments</hi> had
+<pb n="5" facs="tcp:34624:4"/>been of that nature, that they might have been abo<g ref="char:EOLhyphen"/>liſhed; then from the time that they are aboliſhed, the perſons to whom they are ſo aboliſhed can be guilty of no ſin: <hi>Rom.</hi> 4.15. 1 <hi>John</hi> 3.4. there<g ref="char:EOLhyphen"/>fore obſerve how neer this comes to Rant<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="2">(2.) If ſo, then from the time that the <hi>Ten Com<g ref="char:EOLhyphen"/>mandments</hi> are aboliſhed, we ſhall not want the blood of Chriſt to waſh away either the guilt or filth of Sin; and we know no way in the world how this can be ſhifted, but by ſaying that Chriſt hath gi<g ref="char:EOLhyphen"/>ven us Laws in the New Teſtament. But if thoſe that ſay ſo, mean only ſuch inſtitutions as <hi>Baptiſm</hi> and the <hi>Lords Supper,</hi> we deny it not: but if they mean Moral rules of Righteouſneſs, ſuch as are of the nature of the <hi>Ten Commandments;</hi> we deny it, and that for theſe reaſons.</p>
+            <p n="1">(1.) In that it undervalues the Blood of Chriſt, and makes as if it were given but to remove the curſe of ſuch a Law as had no more equity, holy<g ref="char:EOLhyphen"/>neſs, or worth in it, but that it might be aboliſh<g ref="char:EOLhyphen"/>ed.</p>
+            <p n="2">(2.) It makes as if Chriſt after he had by his death aboliſhed the old Covenant of works, and brought us under a New-Covenant of grace, did a<g ref="char:EOLhyphen"/>gain bring us under a third Covenant, even a Cove<g ref="char:EOLhyphen"/>nant of works: a thing ſtrange and unheard-of in the Scripture. It is true, Chriſt and his Apoſtles did often warn us to mind the duties commanded in the the old Covenant; but we never heard from others, or ſaw ground from the Scripture, to judge that Chriſt had ever brought a third Covenant, and a Covenant of works too, upon the Necks of his people.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:34624:5"/>
+(3.) We conceive there is no reaſon to be given wherefore the Law of the <hi>Ten Commandments</hi> ſhould be aboliſhed in the ſence before named, but what will grate as hard every whit upon all the Precepts of the old Teſtament. And indeed, both the con<g ref="char:EOLhyphen"/>ſequences, and the evil of the Conſequences of this opinion, are ſo obvious to every conſidering man, that we ſhall forbear to ſay any more Now.</p>
+            <p>And as to that which is Objected from <hi>Rom.</hi> 7. we ſay, that the Apoſtle goeth not there about to perſwade us that the Law is aboliſhed as unto obe<g ref="char:EOLhyphen"/>dience, as appears by the following diſcourſe in the 7<hi rend="sup">th</hi> 
+               <hi>verſ.</hi> and ſo to <hi>ult.</hi> and the four firſt <hi>verſes</hi> of Cap. 8. as alſo, for the reaſons given before. But in<g ref="char:EOLhyphen"/>deed, this we take to be the meaning of that place, <hi>i. e.</hi> That whilſt a perſon remains in his Natural e<g ref="char:EOLhyphen"/>ſtate without Chriſt, having the Law for a Huſ<g ref="char:EOLhyphen"/>band (to uſe the Scriptures Compariſon) he hath no help by it, to enable him to bring forth fruit un<g ref="char:EOLhyphen"/>to God: but when he is once Married to the Lord Jeſus by a lively faith, he doth receive that ſtrength from Chriſt to bring forth fruits of Sanctification and holineſs; which although the Law taught him what he ſhould doe, yet it did not afford him help to doe: but this cometh onely by union with this latter and better husband Chriſt. So commend<g ref="char:EOLhyphen"/>ing you to God, and to the word of his grace, We remain</p>
+            <closer>
+               <signed>Your Loving Brethren, as aforeſaid.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:34624:5"/>
+            <head>Poſt-ſcript.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THe book entituled <hi>The <g ref="char:V">Ʋ</g>nchang<g ref="char:EOLhyphen"/>able Morality of the Seventh<g ref="char:EOLhyphen"/>day-Sabbath</hi> formerly mentioned, is to be ſold at the Crown in Popes head Alley; and this Letter at the Seven Stars in St. <hi>Paul's</hi> Church-yard, neer the great North-door.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
